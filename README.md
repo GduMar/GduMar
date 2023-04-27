@@ -9,8 +9,10 @@
       -Intune
       -Azure
       -IaaS - terraform
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on cloud infrastruture and DevOps Projects
+- 📫 How to reach me ..
+-     https://www.linkedin.com/in/gdumartins/
+-     gdu.martins@gmail.com
 
 <!---
 GduMar/GduMar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
