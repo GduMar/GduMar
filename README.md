@@ -5,11 +5,9 @@
       -Cloud Computing
 - 🌱 I’m currently learning 
       -DevOps
-      -SCCM
-      -Intune
-      -Azure
-      -IaaS - terraform
-- 💞️ I’m looking to collaborate on cloud infrastruture and DevOps Projects
+      -Kubernetes
+      -Terraform
+- 💞️ I’m looking to collaborate on cloud infrastruture and kubernetes Projects
 - 📫 How to reach me ..
 -     https://www.linkedin.com/in/gdumartins/
 -     gdu.martins@gmail.com
